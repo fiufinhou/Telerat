@@ -1,6 +1,6 @@
 # إعدادات بوت تيليجرام
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
+BOT_TOKEN = "6546516734:AAFHElupAZvxFfwALkbHhA-UOrf_4pJM3ok"
+CHAT_ID = "1722250078"
 
 # إعدادات خادم Flask
 HOST = "0.0.0.0"
